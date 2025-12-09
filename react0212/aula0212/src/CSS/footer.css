@@ -1,0 +1,14 @@
+.footer-style{
+background-color: #005f00;
+color: white;
+padding: 15px 30px;
+justify-content: space-between;
+text-align: center;
+margin-top: 50px;
+}
+
+.footer-text-main{
+margin: 5px;
+font-size: 0.875rem;
+}
+

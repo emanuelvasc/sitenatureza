@@ -1,0 +1,30 @@
+.sobre-container {
+    text-align: center;
+    padding: 40px 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.sobre-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #4CAF50; /* linha verde */
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.sobre-paragraph {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.sobre-list {
+    list-style-type: disc;
+    margin: 0 auto;
+    padding-left: 40px;
+    text-align: left;
+    max-width: 400px;
+    line-height: 1.8;
+}
